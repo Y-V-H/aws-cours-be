@@ -71,7 +71,7 @@ module.exports.handler = async (event) => {
     statusCode: 200,
     body: JSON.stringify(products),
     headers: {
-      'Content-Type': 'text/html',
+      'Access-Control-Allow-Origin': '*',
     }
   };
 };
