@@ -72,11 +72,11 @@ functions:
           path: products
           method: get
           cors: true
-  getProductsById:
+  getProductById:
     handler: functions/getProductsById.handler
     events:
       - http:
-          path: product
+          path: product/{id}
           method: get
           cors: true
 

@@ -1,0 +1,20 @@
+{
+  "name": "aws-cours-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Y-V-H/aws-cours-be.git"
+  },
+  "keywords": [],
+  "author": "y.hurynovich <yahor.hurynovich@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Y-V-H/aws-cours-be/issues"
+  },
+  "homepage": "https://github.com/Y-V-H/aws-cours-be#readme"
+}
